@@ -1,6 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <blocks>
-  <block id="eece53abc6d84973fe78f6fa978750a8" category="summary">컴퓨팅 서비스의 새로운 기능에 대해 알아보십시오.</block>
   <block id="490414e0366b091220802d406e52c076" category="doc">새로운 기능</block>
   <block id="9dc245f64def9d62941e9ee3f4af4adb" category="section-title">Cloud Manager와 Spot 간 탐색</block>
   <block id="429b7972d23af5e411304108791f1c6c" category="paragraph">이제 Cloud Manager와 Spot을 더 쉽게 탐색할 수 있습니다.</block>
@@ -10,10 +9,8 @@
   <block id="94bdad82453d71da22fcd69f47559c1c" category="paragraph">활용할 수 있습니다<block ref="f6403c1f0596662bb11f11c4ddde243f" category="inline-link-rx"></block>이제 Cloud Manager를 사용하여 클라우드 컴퓨팅 지출에 대한 상위 수준의 비용 분석을 수행하고 잠재적인 비용 절감을 파악할 수 있습니다. 이 정보는 Cloud Manager의 * Compute * 서비스에서 확인할 수 있습니다.</block>
   <block id="0947726e3c301f45f25d6d4b3295fcec" category="inline-link-macro">컴퓨팅 서비스에 대해 자세히 알아보십시오</block>
   <block id="6ae18045fc1ab0bf7898b13f3ef31c9a" category="inline-image-macro">Cloud Manager의 비용 분석 페이지를 보여 주는 스크린샷</block>
-  <block id="6d79ef20eb182089395ef09e4c198ccb" category="summary">Cloud Manager는 Spot의 Cloud Analyzer 서비스를 활용하여 클라우드 컴퓨팅 지출에 대한 상위 수준의 비용 분석을 수행하고 잠재적인 비용 절감을 파악할 수 있습니다.</block>
   <block id="dc512bfecf857e8dee6ac30c7a237a2f" category="doc">컴퓨팅 서비스에 대해 자세히 알아보십시오</block>
   <block id="ea197bae82effb87bc75fbe595602d2b" category="inline-link">Spot's Cloud Analyzer 서비스</block>
-  <block id="87f25268f4538def4b3cbb0148369b1b" category="paragraph">활용할 수 있습니다<block ref="4b96c8339310a566633babc222b55825" category="inline-link-rx"></block>Cloud Manager를 사용하면 클라우드 컴퓨팅 지출에 대한 상위 수준의 비용 분석을 제공하고 잠재적 비용 절감을 식별할 수 있습니다.</block>
   <block id="3fb7a38542fc8dc9bd67775c1efa0754" category="paragraph">Cloud Analyzer는 클라우드 비용에 대한 가시성과 통찰력을 제공하기 위해 고급 분석을 사용하는 클라우드 인프라 관리 솔루션입니다. 이 도구를 사용하면 이러한 비용을 최적화할 수 있는 위치를 확인할 수 있으며, 몇 번의 클릭만으로 Spot의 지속적인 최적화 제품 포트폴리오를 사용하여 최적화를 구현할 수 있습니다.</block>
   <block id="98f770b0af18ca763421bac22b4b6805" category="section-title">피처</block>
   <block id="b13786f788868ed1bede397373dc9471" category="list-text">해당 월의 현재 비용, 예상 월 비용, 누락된 비용 등을 보여 주는 비용 분석</block>
@@ -22,20 +19,14 @@
   <block id="902e65d33784bd8924eb05e622aa2dda" category="section-title">지원되는 클라우드 공급자</block>
   <block id="c2a13a8b969b516ac9af28a61843732c" category="paragraph">이 서비스는 AWS에서 지원됩니다.</block>
   <block id="20b4f77bd00b4f63a49ec8e08f3bf6a6" category="section-title">비용</block>
-  <block id="f534e70d23b20b69790b5281217a7257" category="paragraph">Cloud Manager를 통해 이 서비스를 무료로 사용할 수 있습니다.</block>
-  <block id="7c06c52c4e76bd8d67d4da904f426cb1" category="section-title">Cloud Analyzer를 Cloud Manager와 함께 사용하는 방법</block>
-  <block id="4d8eb0bc0298d7b1b0ea3f4f618ea0e1" category="paragraph">고수준에서 Cloud Analyzer와 Cloud Manager의 통합은 다음과 같이 작동합니다.</block>
   <block id="1fdce7e9a0a4116c0c33b13e949d0e94" category="list-text">Compute * 를 클릭하고 AWS 관리 계정을 연결합니다.</block>
   <block id="375b86c47403de1db7caffdd4c5ddfe6" category="list-text">NetApp은 다음과 같이 환경을 구성합니다.</block>
   <block id="c3c918d3946255bf9b03b6e74b5b3f36" category="list-text">Spot 플랫폼에 조직을 만듭니다.</block>
   <block id="160fee406155d1c4308599be28a10850" category="list-text">Spot에 환영 이메일을 보냅니다.</block>
-  <block id="d22621cbc677aa8d88d1a0df694b9d60" category="paragraph">Cloud Central 및 Cloud Manager에서 사용하는 것과 동일한 SSO(Single Sign-On) 자격 증명을 사용하여 Spot 서비스에 로그인할 수 있습니다.</block>
   <block id="d68a9d5829a20c130e867fef2a4695c6" category="list-text">Cloud Analyzer에서 AWS 계정 데이터 처리를 시작합니다.</block>
-  <block id="1caf35c7462aa72e36bfd6de6b5f6d8e" category="list-text">Cloud Manager에서 컴퓨팅 페이지를 새로고침하면 정보를 사용하여 이전, 현재 및 향후 클라우드 비용에 대한 통찰력을 얻을 수 있습니다.</block>
   <block id="d324de754d17bd272e8971296440d6f6" category="list-text">언제든지 * Get Full Analysis * 를 클릭하여 Spot's Cloud Analyzer로 이동하면 클라우드 지출과 비용 절감 기회를 완벽하게 분석할 수 있습니다.</block>
   <block id="4c5d94eb4dc4bff93f6a96a08ab7b244" category="section-title">데이터 보안</block>
   <block id="927d8afbddd6abdbda7791916303bd5e" category="paragraph">Cloud Analyzer 데이터는 사용되지 않을 때 암호화되며 계정에 대한 자격 증명은 저장되지 않습니다.</block>
-  <block id="ce21e7ae4271271294ccbf54c8fd6864" category="summary">NetApp은 다양한 방법으로 Cloud Manager를 지원합니다. 기술 자료(KB) 기사 및 커뮤니티 포럼과 같은 광범위한 무료 셀프 지원 옵션이 24x7 제공됩니다. 지원 등록에는 웹 티켓팅을 통한 원격 기술 지원이 포함됩니다.</block>
   <block id="fabfc25ef8996fd90836e58a4c0b26b6" category="doc">도움을 받으십시오</block>
   <block id="d41d8cd98f00b204e9800998ecf8427e" category="inline-link-macro"></block>
   <block id="0110949a431061ee668054b5ab98627e" category="summary">고객을 연결한 후 클라우드 컴퓨팅 비용 분석을 통해 과거, 현재 및 미래의 클라우드 비용을 파악할 수 있습니다.</block>
@@ -45,8 +36,6 @@
   <block id="f3a29486bed19a90f2da6d007818b427" category="list-title">단계</block>
   <block id="83457133a0ef330b6cf07b6b359318bf" category="list-text">Compute(계산) * 를 클릭합니다.</block>
   <block id="75f0eecd0fdb097a7d4b1e2f8e514d51" category="list-text">비용 분석을 통해 컴퓨팅 비용에 대한 통찰력을 얻을 수 있습니다.</block>
-  <block id="08c7073117589917ae653b4ee85aa678" category="inline-image-macro">Cloud Manager의 비용 분석 페이지를 보여 주는 스크린샷 이 페이지에는 아래 텍스트에 설명된 정보가 포함되어 있습니다.</block>
-  <block id="40c72762e79ce7a14f7f5fa9134f5541" category="paragraph"><block ref="40c72762e79ce7a14f7f5fa9134f5541" category="inline-image-macro-rx" type="image"></block></block>
   <block id="3f994038d6dd09b875518b9b5d38a005" category="list-text">월-일 비용</block>
   <block id="95a217721be0bcb767d045a065ccf8aa" category="list-text">현재 달부터 현재까지의 총 워크로드 비용입니다.</block>
   <block id="1cc2cf546407159fc46856165777a76d" category="list-text">예상 비용</block>
@@ -74,8 +63,6 @@
   <block id="17dd96462b10711049d52dedde6ddc2b" category="inline-link">Cloud Analyzer 사용에 대한 도움말은 Spot 설명서를 참조하십시오</block>
   <block id="745d17f34ad4743fc8506242741c7c95" category="list-text"><block ref="745d17f34ad4743fc8506242741c7c95" category="inline-link-rx"></block></block>
   <block id="30d965eef5ba25c6b9998ae38270b43e" category="doc">법적 고지</block>
-  <block id="4940124e8487cb4ea36f1511a195cf66" category="inline-link-macro">Cloud Manager 3.9에 대한 고지 사항</block>
-  <block id="c069fcc68c5dfa73ccc99924c836cae9" category="paragraph"><block ref="c069fcc68c5dfa73ccc99924c836cae9" category="inline-link-macro-rx"></block></block>
   <block id="26e6e5fcbea5f9f1e96a87e1f4727945" category="summary">Spot의 Cloud Analyzer에서 클라우드 컴퓨팅 비용을 심층 분석하기 위해 몇 가지 단계를 완료합니다.</block>
   <block id="0a17377f2d00cfdc489595aab3f4cb1a" category="doc">Cloud Analyzer을 AWS 계정에 연결합니다</block>
   <block id="9e117c9326e0082792fc9db4022de033" category="paragraph">클라우드 컴퓨팅 비용을 최적화할 수 있도록 Cloud Analyzer를 AWS 지불자 계정에 연결하십시오.</block>
@@ -91,11 +78,8 @@
   <block id="fbe402e9579140daae0c0cddf837f4b4" category="paragraph"><block ref="fbe402e9579140daae0c0cddf837f4b4" category="inline-image-macro-rx" type="image"></block></block>
   <block id="c89159332a937ddbad2a51dd14e5c43d" category="inline-link-macro">컴퓨팅 비용을 분석합니다</block>
   <block id="d22c459c62854d20003f9895eea37a89" category="paragraph">Cloud Analyzer에서 AWS 계정 데이터 처리를 시작합니다. 계정이 여러 개인 경우 Cloud Analyzer는 관리 계정 아래의 연결된 모든 계정에 대해 읽기 전용 기능으로 시작합니다. 이러한 계정의 잠재적 절감 효과에 대한 자세한 내용을 보려면 계정을 연결해야 합니다. 계정 연결에 대한 자세한 내용은 에서 확인할 수 있습니다 <block ref="3073dfe60a6ccd32fe5c511a4c14196f" category="inline-link-macro-rx"></block>.</block>
-  <block id="07b933213828c1d942943f34617e62b0" category="summary">클라우드 컴퓨팅 지출에 대한 비용 분석을 확인하고 Cloud Manager에서 바로 잠재적인 비용 절감을 확인하십시오.</block>
   <block id="1c87777fc8577c23e4c3acf6e05c6e76" category="doc">컴퓨팅 설명서</block>
-  <block id="3c10116b37b407ac79092a38ffb292e4" category="summary">NetApp 기술 지원으로 지원 케이스를 생성하기 전에 NetApp Support 사이트 계정을 Cloud Manager에 추가한 다음 지원을 위해 등록해야 합니다.</block>
   <block id="42748df9eaa0be17ddc5cc1593cf57ab" category="doc">지원을 위해 등록하십시오</block>
-  <block id="7ff191df90fac0fa94ab5c2b5101a5e9" category="sidebar">모든 Cloud Manager 설명서</block>
   <block id="fc9195dd2727e87e1a0e146782847649" category="sidebar">컴퓨팅 문서</block>
   <block id="7d0ee6fed10d3d4e5c9ee496729ab519" category="sidebar">릴리스 정보</block>
   <block id="be11c74c1dd7f307bb80183a90dc2067" category="sidebar">시작하십시오</block>
@@ -104,14 +88,11 @@
   <block id="3333dce1554e82e74322ec5666134c71" category="sidebar">컴퓨팅 서비스를 사용합니다</block>
   <block id="813011e2103649bb71f124adedcc10ea" category="sidebar">블로그 커뮤니티</block>
   <block id="dd490b81914dd945601e442a41cb4222" category="sidebar">NetApp 커뮤니티</block>
-  <block id="ff6c37cbc252e306a6b4e390ec13cbc1" category="sidebar">Cloud Central 블로그</block>
   <block id="ad203e818e0c9d7f42f1c260b33875f3" category="sidebar">클라우드 웨비나</block>
   <block id="7ee45649520b61796809750e472a8000" category="section-title">2020년 12월 7일</block>
   <block id="3d54f0f13a2b982305cfb676b5efc25c" category="section-title">2020년 10월 18일</block>
   <block id="b70ff2217d4c493d72369bc7013d42a1" category="paragraph"><block ref="0d930208c139fddb05408afa8bb5cf71" category="inline-link-rx"></block>.</block>
   <block id="dfe5d33062cb5ad4c4036bb7e93ff63e" category="paragraph"><block ref="dfe5d33062cb5ad4c4036bb7e93ff63e" category="inline-image-macro-rx" type="image"></block></block>
-  <block id="de2241fea60d98698faaa196ff73ee80" category="paragraph">지원 대시보드를 이용하면 모든 NetApp Support 사이트 계정을 단일 위치에서 추가 및 관리할 수 있습니다.</block>
-  <block id="0046efb3377274ff3215d4b30269809e" category="list-text">Cloud Manager 콘솔의 오른쪽 상단에서 도움말 아이콘을 클릭하고 * 지원 * 을 선택합니다.</block>
   <block id="b50f0a46135bcb7083b1f2f82032fc26" category="inline-image-macro">도움말 메뉴의 스크린샷으로, 여기에서 지원은 첫 번째 옵션입니다</block>
   <block id="868d9aa88f16ea923af1d15eac5d2647" category="paragraph"><block ref="868d9aa88f16ea923af1d15eac5d2647" category="inline-image-macro-rx" type="image"></block></block>
   <block id="d17d6b5dafebab6b7659da8850737e70" category="list-text">NSS 관리 &gt; NSS 계정 추가 * 를 클릭합니다.</block>
@@ -131,41 +112,25 @@
   <block id="fc248f74f5e36542f7f5627b8610e9a3" category="paragraph"><block ref="fc248f74f5e36542f7f5627b8610e9a3" category="inline-link-rx"></block></block>
   <block id="c0227cef6f07a8cd2ac72f2945b031aa" category="section-title">오픈 소스</block>
   <block id="9b73989307c1975dfa4d5e1581e4afe8" category="paragraph">통지 파일은 NetApp 소프트웨어에 사용된 타사의 저작권 및 라이센스에 대한 정보를 제공합니다.</block>
-  <block id="51719eefc68685ac0e2a11057a44b8be" category="paragraph">NetApp은 다양한 방법으로 Cloud Manager 및 클라우드 서비스를 지원합니다. 기술 자료(KB) 기사 및 커뮤니티 포럼과 같은 광범위한 무료 셀프 지원 옵션이 24x7 제공됩니다. 지원 등록에는 웹 티켓팅을 통한 원격 기술 지원이 포함됩니다.</block>
   <block id="07d41912a6ab6b97216f8cf89e93205c" category="section-title">자체 지원</block>
   <block id="5e4b821a1a82558dead1ef6961e90666" category="paragraph">이 옵션은 하루 24시간, 주 7일 동안 무료로 사용할 수 있습니다.</block>
   <block id="19111351b69b6b15668130b38b7f6038" category="inline-link">기술 자료</block>
   <block id="fd6bb4fa1ad0caeedd6782d92cc54ea3" category="list-text"><block ref="fd6bb4fa1ad0caeedd6782d92cc54ea3" category="inline-link-rx"></block></block>
-  <block id="76b571fb5edea1c1994fa0ff01f7b1e2" category="paragraph">Cloud Manager 기술 자료를 검색하여 문제를 해결할 수 있는 유용한 문서를 찾습니다.</block>
   <block id="14526abd8bda5af347775025cd5342cf" category="inline-link">커뮤니티</block>
   <block id="410fdb9caa9c64da2ff3f88f4836960d" category="list-text"><block ref="410fdb9caa9c64da2ff3f88f4836960d" category="inline-link-rx"></block></block>
-  <block id="7f3490343cad8dc3bfdb72dd5d957e8d" category="paragraph">Cloud Manager 커뮤니티에 가입하여 진행 중인 토론을 팔로우하거나 새 토론을 만들어보십시오.</block>
   <block id="5b6cf869265c13af8566f192b4ab3d2a" category="list-text">문서화</block>
-  <block id="3c313458d6e15dd2c4336e47118d0a8f" category="paragraph">현재 보고 있는 Cloud Manager 문서입니다.</block>
   <block id="80b1b0d2b1ebf2b3cba2d25759801afd" category="list-text">mailto:ng-cloudmanager-feedback@netapp.com [피드백 이메일]</block>
-  <block id="bff60abbc46aceed0f73a3a4f6cfb123" category="paragraph">저희는 귀하의 의견을 소중하게 생각합니다. 클라우드 관리자 개선에 도움이 되는 피드백을 제출해 주십시오.</block>
   <block id="0659d428df833a806e29e65e632d380a" category="section-title">NetApp 지원</block>
-  <block id="6c08c57e382a25a778455184cd9b1a4a" category="list-text">Cloud Manager에서 * 도움말 &gt; 지원 * 을 클릭합니다.</block>
   <block id="f5052c65917d7341726235d4d4941461" category="list-text">기술 지원 아래에서 사용 가능한 옵션 중 하나를 선택합니다.</block>
-  <block id="d1a9582568e79d0f7df77bf8db0c78c2" category="paragraph">NetApp 기술 지원으로 지원 케이스를 생성하기 전에 NetApp Support 사이트(NSS) 계정을 Cloud Manager에 추가한 다음 지원을 등록해야 합니다.</block>
   <block id="0b0e252af8897fbe981ec6682d2aa33b" category="section-title">지원 등록 개요</block>
   <block id="192054ad7601240a3e8be54cc5cc548e" category="paragraph">지원 권한을 활성화하려면 두 가지 형태의 등록이 있습니다.</block>
-  <block id="e84e72c56ec69ee05b16bee368f2f4cb" category="list-text">Cloud Manager 계정 ID 지원 구독 등록(Cloud Manager의 지원 리소스 페이지에 있는 20자리 960xxxxxxxxx 일련 번호)</block>
-  <block id="86d34aa6dedf863c0a4ff5e293c1ec79" category="paragraph">이 ID는 Cloud Manager 내의 모든 서비스에 대한 단일 지원 구독 ID로 사용됩니다. 각 Cloud Manager 계정 레벨 지원 구독을 등록해야 합니다.</block>
   <block id="55ff64467cd508971910145ab5d6b3b8" category="list-text">클라우드 공급자 마켓플레이스의 구독과 연결된 Cloud Volumes ONTAP 일련 번호 등록(20자리 909201xxxxxxxx 일련 번호)</block>
-  <block id="dbea8abd63832b9ce98fbfac8dbb8c15" category="paragraph">이러한 일련 번호를 일반적으로 _PAYGO 일련 번호_라고 하며 Cloud Volumes ONTAP 구축 시 Cloud Manager에서 생성됩니다.</block>
-  <block id="a9e835b028baaab9d917fafc714e25a5" category="paragraph">두 유형의 제품 번호를 등록하면 지원 티켓 열기, 자동 케이스 생성 및 Active IQ 등의 기능을 사용할 수 있습니다.</block>
   <block id="98bc603dcb6d5a57d540b13b541fa41a" category="paragraph">등록 방법은 신규 고객인지, 기존 고객인지 또는 파트너인지에 따라 다릅니다.</block>
   <block id="e5646198d2e01aab2cec9ef946f9c53a" category="list-text">기존 고객 또는 파트너</block>
-  <block id="60791d56f45a3f9f1287510b65d323df" category="paragraph">기존 NetApp 고객 또는 파트너는 NSS(NetApp Support 사이트) SSO 계정을 사용하여 위에서 이러한 등록을 수행할 수 있습니다. 지원 대시보드에서 Cloud Manager는 NSS 계정을 추가할 수 있는 * NSS 관리 * 페이지를 제공합니다. NSS 계정을 추가하면 Cloud Manager에서 자동으로 이러한 일련 번호를 등록합니다.</block>
   <block id="4e6af37fb81d50483d832d4de6e2b26a" category="inline-xref">NSS 계정을 추가하는 방법에 대해 알아봅니다</block>
-  <block id="32e82838df6d3ab4de32d996ebbe98cd" category="paragraph"><block ref="27c44e31a17502f2e9a25a83f2f37696" category="inline-xref-macro-rx"></block>.</block>
   <block id="1c91f3adc957364cb01d33e100ee1ea3" category="list-text">NetApp이 처음입니다</block>
-  <block id="bcce750f51c727121c6fa1fb7d2c91f8" category="paragraph">NetApp이 처음인 파트너는 NetApp의 지원 등록 사이트에서 Cloud Manager 계정 ID 일련 번호를 한 번 등록해야 합니다. 이 등록을 완료하고 새 NSS 계정을 만들면 Cloud Manager에서 이 계정을 사용하여 앞으로 자동 등록할 수 있습니다.</block>
   <block id="00fc9d0c515c69ea2c368521453d982e" category="inline-xref">NetApp에 등록하는 방법을 알아보십시오</block>
   <block id="97454ce87333f7ebd50ee38b8126fb39" category="paragraph"><block ref="37544f11913357c4e8c8a4ec607ae247" category="inline-xref-macro-rx"></block>.</block>
-  <block id="f6c4c1e9625a13b1b4d06a8f53f2ccfd" category="section-title">NSS 계정을 Cloud Manager에 추가합니다</block>
-  <block id="0bfa39d13bc65474a81520ace129413d" category="paragraph">이러한 작업을 통해 Cloud Manager는 NSS 계정을 사용하여 라이선스 다운로드, 소프트웨어 업그레이드 확인 및 향후 지원 등록과 같은 작업을 수행할 수 있습니다.</block>
   <block id="cf3a2d2c139bf5c9cc87fe714bfff3b1" category="paragraph">다음 사항에 유의하십시오.</block>
   <block id="0f0a0d646a020cf3a65ce82ada4cfb01" category="list-text">계정은 고객 수준 계정이어야 합니다(게스트 또는 임시 계정이 아님).</block>
   <block id="1dcb63fd55c4d22e87cb32275b8cc808" category="inline-image-macro">세 개의 가로 점으로 구성된 아이콘</block>
@@ -174,8 +139,6 @@
   <block id="ad56c7289bc13dcf4f78c285f7f03878" category="section-title">NetApp에 등록</block>
   <block id="f1bac79c2c71fbd93863b9fbd718094c" category="paragraph">NetApp 지원에 등록하는 방법은 NetApp Support 사이트(NSS) 계정이 이미 있는지 여부에 따라 다릅니다.</block>
   <block id="bf4c731c0ee7f60c8018ad8f96828dda" category="section-title">NSS 계정이 있는 기존 고객</block>
-  <block id="d4b6092976537c153c496a428098980c" category="paragraph">NSS 계정을 가진 NetApp 고객은 Cloud Manager를 통해 지원을 위해 등록하기만 하면 됩니다.</block>
-  <block id="c9d4df035d54072bb393bd27f6769cc7" category="list-text">아직 추가하지 않은 경우 NSS 계정을 Cloud Manager에 추가합니다.</block>
   <block id="819aff12752b7e6a1828e755c7664de7" category="list-text">Resources * 페이지에서 * Register for Support * 를 클릭합니다.</block>
   <block id="e8a3d9970b8fc1d92caaf33d9e116bd4" category="inline-image-macro">계정 일련 번호 및 지원 등록 옵션을 보여 주는 스크린샷</block>
   <block id="113f9cd7bac6f4faa6b8d58e3e099a8e" category="paragraph"><block ref="113f9cd7bac6f4faa6b8d58e3e099a8e" category="inline-image-macro-rx" type="image"></block></block>
@@ -198,17 +161,12 @@
   <block id="03413baeca1ff7222737d8ce299bd4e8" category="list-text">이메일 내에서 작업을 확인합니다.</block>
   <block id="201080500e946070a2e4873042507c77" category="paragraph">확인 시 NetApp에 요청이 제출되고 NetApp Support 사이트 계정을 만들 것을 권장합니다.</block>
   <block id="684375e279a289295b72a006d93e2c4c" category="paragraph">이 과정에서 NetApp이 연락을 드릴 것입니다. 신규 사용자를 위한 일회성 온보딩 연습입니다.</block>
-  <block id="cc7175a084ebd6e004cb2c751c162569" category="paragraph">NetApp Support 사이트 계정이 있으면 Cloud Manager로 이동하여 향후 등록을 위해 이 NSS 계정을 추가할 수 있습니다.</block>
   <block id="82812db645b6ff5e9c2a24ddfb66c8d6" category="paragraph">위의 자체 지원 옵션 외에도 NetApp 지원 전문가와 협력하여 지원을 활성화한 이후의 모든 문제를 해결할 수 있습니다.</block>
   <block id="e2a733504c4088b809813bbb35a3ddfd" category="inline-link-macro">지원 등록 방법을 알아보십시오</block>
-  <block id="09651e14b46d7e8697d32de90d0deacb" category="paragraph">케이스 생성 * 기능을 사용하려면 먼저 Cloud Manager 계정 ID 일련 번호(예: 960xxxx) NetApp 포함 <block ref="3349e4b3d05f646f2f1421bee7c2ad26" category="inline-link-macro-rx"></block>.</block>
   <block id="383133cb6f7207b1c65c3ace94aa5e95" category="list-text">전화로 통화하려면 * 전화 * 를 클릭하십시오. 전화를 걸 수 있는 전화 번호가 나열된 netapp.com 페이지로 연결됩니다.</block>
   <block id="bf5bc6ab0f95f17f4e98c9d766b8c11d" category="list-text">케이스 생성 * 을 클릭하여 NetApp 지원 전문가와 함께 티켓을 엽니다.</block>
   <block id="b53e0a259f4a0c8e7da80d6c94e26c84" category="list-text">* NetApp Support 사이트 계정 *: 지원 케이스를 여는 사람과 관련된 해당 NSS 계정을 선택합니다. 이 담당자는 아래에 제공된 추가 이메일 외에 NetApp에 연락할 수 있는 기본 담당자가 됩니다.</block>
-  <block id="ec65cc87efda54741062da1fce99ff76" category="paragraph">NSS 계정이 표시되지 않으면 Cloud Manager의 지원 섹션 내의 * NSS 관리 * 탭으로 이동하여 해당 계정을 추가할 수 있습니다.</block>
-  <block id="b3144caf7d928b7954447c757b3ed77b" category="list-text">* 서비스 *: 문제와 관련된 서비스를 선택합니다. 예를 들어, Cloud Manager가 서비스 내의 워크플로우 또는 기능과 관련된 기술 지원 문제를 해결할 수 있는 경우에 해당합니다.</block>
   <block id="2e50c5f85523f0aba9ff2db10f18279c" category="list-text">* 작업 환경 *: 스토리지에 적용 가능한 경우 * Cloud Volumes ONTAP * 또는 * On-Premise * 를 선택한 다음 관련 작업 환경을 선택합니다.</block>
-  <block id="1e38219c106fb9d07d173c027b8911c7" category="paragraph">작업 환경 목록은 서비스의 상단 배너에서 선택한 Cloud Manager 계정, 작업 공간 및 커넥터의 범위 내에 있습니다.</block>
   <block id="e6f29fb3c7636dc0040600dd0e84bb79" category="list-text">* 케이스 우선 순위 *: 케이스의 우선 순위를 선택합니다. 우선 순위는 낮음, 중간, 높음 또는 긴급입니다.</block>
   <block id="835eb4008e97c2a7f69bbb2725285e34" category="paragraph">이러한 우선 순위에 대한 자세한 내용을 보려면 필드 이름 옆에 있는 정보 아이콘 위로 마우스를 가져갑니다.</block>
   <block id="0f7d9319c95a8be1492e74601c4b3259" category="list-text">* 문제 설명 * : 해당 오류 메시지 또는 수행한 문제 해결 단계를 포함하여 문제에 대한 자세한 설명을 제공합니다.</block>
@@ -219,7 +177,53 @@
   <block id="04e15da1deae9568b4dcda64fbb0c8d5" category="paragraph">지원 케이스 내역을 보려면 * 설정 &gt; 일정 * 을 클릭하고 "지원 케이스 생성"이라는 이름의 작업을 찾습니다. 오른쪽 끝에 있는 버튼을 사용하여 작업을 확장하여 세부 정보를 볼 수 있습니다.</block>
   <block id="5c56753585e89a84941bb3a78bc681af" category="paragraph">케이스를 생성하려고 할 때 다음과 같은 오류 메시지가 나타날 수 있습니다.</block>
   <block id="a30f69ab0ec85d427a3e8835713525bd" category="paragraph">"선택한 서비스에 대해 케이스를 생성할 권한이 없습니다."</block>
-  <block id="148f13242c3e296dc276821cdc574921" category="paragraph">이 오류는 NSS 계정과 연결된 레코드 회사가 Cloud Manager 계정 일련 번호( 960xxxx) 또는 작동 환경 일련 번호 케이스 생성 * 양식 상단의 NSS 계정 목록을 확인하여 올바른 일치 항목을 찾거나 다음 옵션 중 하나를 사용하여 지원을 요청할 수 있습니다.</block>
   <block id="e01df0b4dfd95eba2c59333419e4fac6" category="list-text">제품 내 채팅을 사용합니다</block>
   <block id="639be990cfca56ab4b63685d8bacd437" category="list-text">에서 비기술 케이스를 제출하십시오<block ref="2298f47e4dad19a3156da7ce6116d9b1" category="inline-link-rx"></block></block>
+  <block id="acb1895ec4c887192c38fae22446be51" category="summary">클라우드 컴퓨팅 지출에 대한 비용 분석을 확인하고 BlueXP(이전의 Cloud Manager)에서 바로 얻을 수 있는 절감 효과를 확인하십시오.</block>
+  <block id="02c7be9d19094be861ed6d5c868ab6d9" category="list-text">탐색 메뉴에서 * 확장 &gt; 클라우드 작업 * 을 선택합니다.</block>
+  <block id="243263104c829e77835d632f591230d5" category="summary">NetApp 기술 지원 팀과 지원 케이스를 생성하기 전에 NetApp Support 사이트 계정을 BlueXP에 추가한 다음 지원 등록을 해야 합니다.</block>
+  <block id="8bf30fadf784022b073adb9233678a71" category="paragraph">NetApp 기술 지원 팀의 지원 케이스를 생성하기 전에 NetApp Support 사이트(NSS) 계정을 BlueXP에 추가한 다음 지원 등록을 해야 합니다.</block>
+  <block id="2322ca552c2b0ebe090c8485519246a8" category="list-text">BlueXP 계정 ID 지원 가입 등록(BlueXP의 지원 리소스 페이지에 있는 20자리 960xxxxxxxxx 일련 번호)</block>
+  <block id="23fdcbefa6d9cd877be7ceb7a18bb936" category="paragraph">이는 BlueXP 내의 모든 서비스에 대한 단일 지원 가입 ID의 역할을 합니다. 각 BlueXP 계정 수준 지원 구독을 등록해야 합니다.</block>
+  <block id="67dbdeb11e22ea7def810bade59ce818" category="paragraph">이러한 일련 번호는 일반적으로 _PAYGO 일련 번호_라고 하며 Cloud Volumes ONTAP 배포 시 BlueXP에서 생성됩니다.</block>
+  <block id="9d4125dc88bb9db6eb4be939905761ce" category="paragraph">두 가지 유형의 일련 번호를 등록하면 지원 티켓 열기와 자동 케이스 생성 등의 기능을 사용할 수 있습니다.</block>
+  <block id="76928f97884b4332b83c5be9b99d93d3" category="paragraph">기존 NetApp 고객 또는 파트너는 NSS(NetApp Support 사이트) SSO 계정을 사용하여 위에서 이러한 등록을 수행할 수 있습니다. 지원 대시보드에서 BlueXP는 NSS 계정을 추가할 수 있는 * NSS 관리 * 페이지를 제공합니다. NSS 계정을 추가하면 BlueXP에서 이러한 일련 번호를 자동으로 등록합니다.</block>
+  <block id="8d80298f51b7ff2da78e26e60195c7a3" category="paragraph"><block ref="cbec7c1a4a2acff5e84457dd449ac01d" category="inline-xref-macro-rx"></block>.</block>
+  <block id="679f2cae4657f177cc89458d49c97e5f" category="paragraph">NetApp이 처음인 파트너는 NetApp의 지원 등록 사이트에서 BlueXP 계정 ID 일련 번호를 한 번 등록해야 합니다. 이 등록을 완료하고 새 NSS 계정을 만들면 BlueXP에서 이 계정을 사용하여 앞으로 자동 등록할 수 있습니다.</block>
+  <block id="a92ec860f505b318fd0f0eba6165d607" category="section-title">BlueXP에 NSS 계정을 추가합니다</block>
+  <block id="77bdda0b5be7d2725f2b5941d74db0e2" category="paragraph">지원 대시보드를 통해 NetApp Support 사이트 계정을 추가하고 관리하여 Cloud Manager와 함께 사용할 수 있습니다.</block>
+  <block id="328a2c1e7778e9edaf79d90c51409ac4" category="list-text">고객 수준 계정이 있는 경우 하나 이상의 NSS 계정을 추가할 수 있습니다.</block>
+  <block id="4fde72c535fd0cd463dbeb49347cdfae" category="list-text">파트너 또는 리셀러 계정이 있는 경우 NSS 계정을 하나 이상 추가할 수 있지만 고객 수준 계정과 함께 추가할 수는 없습니다.</block>
+  <block id="1afe19576f77bb0073c93359ed2cbb18" category="list-text">BlueXP 콘솔의 오른쪽 상단에서 도움말 아이콘을 클릭하고 * 지원 * 을 선택합니다.</block>
+  <block id="cbc6cc3bb022583403171b447b2a962c" category="paragraph">이러한 작업을 통해 BlueXP는 NSS 계정을 사용하여 라이선스 다운로드, 소프트웨어 업그레이드 확인 및 향후 지원 등록과 같은 작업을 수행할 수 있습니다.</block>
+  <block id="7e177185e7eddff33dd8f3aeb7551132" category="paragraph">NSS 계정을 가지고 있는 NetApp 고객은 BlueXP를 통해 지원을 받기 위해 등록하기만 하면 됩니다.</block>
+  <block id="25b94e7b58140f12be91fa8fd935fa59" category="list-text">아직 추가하지 않은 경우 NSS 계정을 BlueXP에 추가합니다.</block>
+  <block id="5226d4ec1f4f81b740cbbd27635b441f" category="list-text">위에 사용된 BlueXP 계정 일련 번호(960xxxx)를 일련 번호 필드에 복사해야 합니다. 이렇게 하면 계정 처리 속도가 빨라집니다.</block>
+  <block id="1c0e45ef07d0dbc13ca2394d5e285fd7" category="paragraph">NetApp Support 사이트 계정이 있으면 BlueXP로 이동하여 나중에 등록하기 위해 이 NSS 계정을 추가할 수 있습니다.</block>
+  <block id="c9df4195a305212ffd7b56d24f67129d" category="summary">NetApp은 다양한 방법으로 BlueXP를 지원합니다. 기술 자료(KB) 기사 및 커뮤니티 포럼과 같은 광범위한 무료 셀프 지원 옵션이 24x7 제공됩니다. 지원 등록에는 웹 티켓팅을 통한 원격 기술 지원이 포함됩니다.</block>
+  <block id="7c5661ab6b39ee901cea00a6e7020a49" category="paragraph">NetApp은 다양한 방법으로 BlueXP 및 클라우드 서비스를 지원합니다. 기술 자료(KB) 기사 및 커뮤니티 포럼과 같은 광범위한 무료 셀프 지원 옵션이 24x7 제공됩니다. 지원 등록에는 웹 티켓팅을 통한 원격 기술 지원이 포함됩니다.</block>
+  <block id="9a3db1abe5491d0eb9bb5d125981356c" category="paragraph">문제를 해결하는 데 도움이 되는 문서를 찾으려면 BlueXP 기술 자료를 검색하십시오.</block>
+  <block id="00c5fef3bb9d593ae96bf5d2ee60354a" category="paragraph">BlueXP 커뮤니티에 가입하여 진행 중인 토론을 팔로우하거나 새 토론을 만드십시오.</block>
+  <block id="a4a6c2ea0078252eac2d74ef3e6c917c" category="paragraph">현재 보고 있는 BlueXP 문서입니다.</block>
+  <block id="6702efec14563f45f1ee2f8c613b8ad8" category="paragraph">저희는 귀하의 의견을 소중하게 생각합니다. BlueXP 개선에 도움이 되는 피드백을 제출하십시오.</block>
+  <block id="1012a287397c66025d7748edf06a36e2" category="paragraph">케이스 생성* 기능을 사용하려면 먼저 BlueXP 계정 ID 일련 번호( 960xxxx) NetApp 포함 <block ref="3349e4b3d05f646f2f1421bee7c2ad26" category="inline-link-macro-rx"></block>.</block>
+  <block id="6254a4afeeb76765a127fe74d31c1b3d" category="list-text">BlueXP에서 * 도움말 &gt; 지원 * 을 클릭합니다.</block>
+  <block id="d950fb930d7f7e6bfdda1b91b4639a02" category="paragraph">NSS 계정이 표시되지 않으면 BlueXP의 지원 섹션에서 * NSS 관리 * 탭으로 이동하여 추가할 수 있습니다.</block>
+  <block id="d63bf50426f4c712554faec55b30c548" category="list-text">* 서비스 *: 문제와 관련된 서비스를 선택합니다. 예를 들어, 서비스 내의 워크플로우 또는 기능과 관련된 기술 지원 문제에 해당하는 BlueXP를 예로 들 수 있습니다.</block>
+  <block id="aa996e20900197b0ea41485ada083d8c" category="paragraph">작업 환경 목록은 서비스의 상단 배너에서 선택한 BlueXP 계정, 작업 영역 및 커넥터의 범위 내에 있습니다.</block>
+  <block id="fa6b601b2fb4e3e5c7b466ecb8bd70ac" category="paragraph">이 오류는 NSS 계정과 연결된 레코드 회사가 BlueXP 계정 일련 번호( 960xxxx) 또는 작동 환경 일련 번호 케이스 생성 * 양식 상단의 NSS 계정 목록을 확인하여 올바른 일치 항목을 찾거나 다음 옵션 중 하나를 사용하여 지원을 요청할 수 있습니다.</block>
+  <block id="605bcddd6e3aa6a95eaced2f52a139b0" category="inline-image-macro">BlueXP의 비용 분석 페이지를 보여주는 스크린샷. 이 페이지에는 아래 텍스트에 설명된 정보가 포함되어 있습니다.</block>
+  <block id="a878c57286792575efcb3c7b7e558681" category="paragraph"><block ref="a878c57286792575efcb3c7b7e558681" category="inline-image-macro-rx" type="image"></block></block>
+  <block id="0ed85f3e49fbdcacf7c6eafed5fe4b1d" category="summary">BlueXP는 Spot의 Cloud Analyzer 서비스를 활용하여 클라우드 컴퓨팅 지출에 대한 높은 수준의 비용 분석을 제공하고 잠재적인 비용 절감을 파악할 수 있습니다.</block>
+  <block id="6ff9a94254ce4f01bfba1bf618b4a71c" category="paragraph">활용할 수 있습니다<block ref="4b96c8339310a566633babc222b55825" category="inline-link-rx"></block>BlueXP는 클라우드 컴퓨팅 지출에 대한 높은 수준의 비용 분석을 제공하고 잠재적인 절감 효과를 파악할 수 있습니다.</block>
+  <block id="442a1ebc0b1897741c68b149d0cff869" category="paragraph">BlueXP를 통해 이 서비스를 무료로 사용할 수 있습니다.</block>
+  <block id="7729b44167439e24787c999afabf9b49" category="section-title">Cloud Analyzer가 BlueXP에서 작동하는 방식</block>
+  <block id="da4f6f67f2d6874fa25ae3476a15be79" category="paragraph">BlueXP와 Cloud Analyzer의 통합은 다음과 같은 이점을 제공합니다.</block>
+  <block id="3a8d3e2363f0495ab293d54bebc7e4dd" category="paragraph">BlueXP에서 사용하는 것과 동일한 SSO(Single Sign On) 자격 증명을 사용하여 Spot 서비스에 로그인할 수 있습니다.</block>
+  <block id="fea17a3edb0c3ee07348be9d64fa874a" category="list-text">BlueXP에서 컴퓨팅 페이지를 새로 고치고 이 정보를 사용하여 과거, 현재 및 미래의 클라우드 비용을 파악할 수 있습니다.</block>
+  <block id="77c0115810e9ed3bfd3337acc96198fd" category="summary">BlueXP(이전의 Cloud Manager)의 Compute Service의 새로운 기능에 대해 알아보십시오.</block>
+  <block id="bcb152582247346e2f453fce02c1fc3c" category="inline-link-macro">BlueXP 3.9에 대한 고지 사항</block>
+  <block id="03f975e839e4278228720a5d19656288" category="paragraph"><block ref="03f975e839e4278228720a5d19656288" category="inline-link-macro-rx"></block></block>
+  <block id="bd5465eb0e8cf8f303aee7ea9420c8b1" category="sidebar">BlueXP 블로그</block>
+  <block id="7a45e6298bb69116e2c6db653fb88884" category="sidebar">모든 BlueXP 설명서</block>
 </blocks>
