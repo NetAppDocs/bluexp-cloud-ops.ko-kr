@@ -4,7 +4,7 @@ permalink: concept-compute.html
 keywords: concepts, how cloud analyzer works, compute, compute costs, compute savings 
 summary: BlueXP는 Spot의 Cloud Analyzer 서비스를 활용하여 클라우드 컴퓨팅 지출에 대한 높은 수준의 비용 분석을 제공하고 잠재적인 비용 절감을 파악할 수 있습니다. 
 ---
-= 컴퓨팅 서비스에 대해 자세히 알아보십시오
+= BlueXP 클라우드 운영에 대해 자세히 알아보십시오
 :hardbreaks:
 :allow-uri-read: 
 :nofooter: 
@@ -45,7 +45,7 @@ BlueXP를 통해 이 서비스를 무료로 사용할 수 있습니다.
 
 BlueXP와 Cloud Analyzer의 통합은 다음과 같은 이점을 제공합니다.
 
-. Compute * 를 클릭하고 AWS 관리 계정을 연결합니다.
+. 확장 > 클라우드 작업 * 을 클릭하고 AWS 관리 계정을 연결합니다.
 . NetApp은 다음과 같이 환경을 구성합니다.
 +
 .. Spot 플랫폼에 조직을 만듭니다.
@@ -56,7 +56,7 @@ BlueXP에서 사용하는 것과 동일한 SSO(Single Sign On) 자격 증명을 
 .. Cloud Analyzer에서 AWS 계정 데이터 처리를 시작합니다.
 
 
-. BlueXP에서 컴퓨팅 페이지를 새로 고치고 이 정보를 사용하여 과거, 현재 및 미래의 클라우드 비용을 파악할 수 있습니다.
+. BlueXP에서는 클라우드 운영 페이지가 새로 고쳐지고 정보를 사용하여 과거, 현재 및 향후 클라우드 비용에 대한 통찰력을 얻을 수 있습니다.
 . 언제든지 * Get Full Analysis * 를 클릭하여 Spot's Cloud Analyzer로 이동하면 클라우드 지출과 비용 절감 기회를 완벽하게 분석할 수 있습니다.
 
 

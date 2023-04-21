@@ -9,9 +9,7 @@
   <block id="94bdad82453d71da22fcd69f47559c1c" category="paragraph">활용할 수 있습니다<block ref="f6403c1f0596662bb11f11c4ddde243f" category="inline-link-rx"></block>이제 Cloud Manager를 사용하여 클라우드 컴퓨팅 지출에 대한 상위 수준의 비용 분석을 수행하고 잠재적인 비용 절감을 파악할 수 있습니다. 이 정보는 Cloud Manager의 * Compute * 서비스에서 확인할 수 있습니다.</block>
   <block id="0947726e3c301f45f25d6d4b3295fcec" category="inline-link-macro">컴퓨팅 서비스에 대해 자세히 알아보십시오</block>
   <block id="6ae18045fc1ab0bf7898b13f3ef31c9a" category="inline-image-macro">Cloud Manager의 비용 분석 페이지를 보여 주는 스크린샷</block>
-  <block id="dc512bfecf857e8dee6ac30c7a237a2f" category="doc">컴퓨팅 서비스에 대해 자세히 알아보십시오</block>
   <block id="ea197bae82effb87bc75fbe595602d2b" category="inline-link">Spot's Cloud Analyzer 서비스</block>
-  <block id="3fb7a38542fc8dc9bd67775c1efa0754" category="paragraph">Cloud Analyzer는 클라우드 비용에 대한 가시성과 통찰력을 제공하기 위해 고급 분석을 사용하는 클라우드 인프라 관리 솔루션입니다. 이 도구를 사용하면 이러한 비용을 최적화할 수 있는 위치를 확인할 수 있으며, 몇 번의 클릭만으로 Spot의 지속적인 최적화 제품 포트폴리오를 사용하여 최적화를 구현할 수 있습니다.</block>
   <block id="98f770b0af18ca763421bac22b4b6805" category="section-title">피처</block>
   <block id="b13786f788868ed1bede397373dc9471" category="list-text">해당 월의 현재 비용, 예상 월 비용, 누락된 비용 등을 보여 주는 비용 분석</block>
   <block id="22940f2df588dbac7740199a7b1c8cc9" category="list-text">예상 추가 비용 절감을 포함하여 계정별 지출 효율성 보기</block>
@@ -19,7 +17,6 @@
   <block id="902e65d33784bd8924eb05e622aa2dda" category="section-title">지원되는 클라우드 공급자</block>
   <block id="c2a13a8b969b516ac9af28a61843732c" category="paragraph">이 서비스는 AWS에서 지원됩니다.</block>
   <block id="20b4f77bd00b4f63a49ec8e08f3bf6a6" category="section-title">비용</block>
-  <block id="1fdce7e9a0a4116c0c33b13e949d0e94" category="list-text">Compute * 를 클릭하고 AWS 관리 계정을 연결합니다.</block>
   <block id="375b86c47403de1db7caffdd4c5ddfe6" category="list-text">NetApp은 다음과 같이 환경을 구성합니다.</block>
   <block id="c3c918d3946255bf9b03b6e74b5b3f36" category="list-text">Spot 플랫폼에 조직을 만듭니다.</block>
   <block id="160fee406155d1c4308599be28a10850" category="list-text">Spot에 환영 이메일을 보냅니다.</block>
@@ -34,7 +31,6 @@
   <block id="cbd3f934260df2829bad2ed4e0f06fd9" category="paragraph">고객을 연결한 후 클라우드 컴퓨팅 비용 분석을 통해 과거, 현재 및 미래의 클라우드 비용을 파악할 수 있습니다.</block>
   <block id="135dc5daa0877864eea105ddf0b69fac" category="section-title">비용 분석 보기</block>
   <block id="f3a29486bed19a90f2da6d007818b427" category="list-title">단계</block>
-  <block id="83457133a0ef330b6cf07b6b359318bf" category="list-text">Compute(계산) * 를 클릭합니다.</block>
   <block id="75f0eecd0fdb097a7d4b1e2f8e514d51" category="list-text">비용 분석을 통해 컴퓨팅 비용에 대한 통찰력을 얻을 수 있습니다.</block>
   <block id="3f994038d6dd09b875518b9b5d38a005" category="list-text">월-일 비용</block>
   <block id="95a217721be0bcb767d045a065ccf8aa" category="list-text">현재 달부터 현재까지의 총 워크로드 비용입니다.</block>
@@ -78,14 +74,11 @@
   <block id="fbe402e9579140daae0c0cddf837f4b4" category="paragraph"><block ref="fbe402e9579140daae0c0cddf837f4b4" category="inline-image-macro-rx" type="image"></block></block>
   <block id="c89159332a937ddbad2a51dd14e5c43d" category="inline-link-macro">컴퓨팅 비용을 분석합니다</block>
   <block id="d22c459c62854d20003f9895eea37a89" category="paragraph">Cloud Analyzer에서 AWS 계정 데이터 처리를 시작합니다. 계정이 여러 개인 경우 Cloud Analyzer는 관리 계정 아래의 연결된 모든 계정에 대해 읽기 전용 기능으로 시작합니다. 이러한 계정의 잠재적 절감 효과에 대한 자세한 내용을 보려면 계정을 연결해야 합니다. 계정 연결에 대한 자세한 내용은 에서 확인할 수 있습니다 <block ref="3073dfe60a6ccd32fe5c511a4c14196f" category="inline-link-macro-rx"></block>.</block>
-  <block id="1c87777fc8577c23e4c3acf6e05c6e76" category="doc">컴퓨팅 설명서</block>
   <block id="42748df9eaa0be17ddc5cc1593cf57ab" category="doc">지원을 위해 등록하십시오</block>
-  <block id="fc9195dd2727e87e1a0e146782847649" category="sidebar">컴퓨팅 문서</block>
   <block id="7d0ee6fed10d3d4e5c9ee496729ab519" category="sidebar">릴리스 정보</block>
   <block id="be11c74c1dd7f307bb80183a90dc2067" category="sidebar">시작하십시오</block>
   <block id="39b47babddc2784c0d74d47260b51730" category="sidebar">AWS 계정을 연결합니다</block>
   <block id="0adc03eac86772ad2c75c8f140be417e" category="sidebar">지식 및 지원</block>
-  <block id="3333dce1554e82e74322ec5666134c71" category="sidebar">컴퓨팅 서비스를 사용합니다</block>
   <block id="813011e2103649bb71f124adedcc10ea" category="sidebar">블로그 커뮤니티</block>
   <block id="dd490b81914dd945601e442a41cb4222" category="sidebar">NetApp 커뮤니티</block>
   <block id="ad203e818e0c9d7f42f1c260b33875f3" category="sidebar">클라우드 웨비나</block>
@@ -114,7 +107,6 @@
   <block id="9b73989307c1975dfa4d5e1581e4afe8" category="paragraph">통지 파일은 NetApp 소프트웨어에 사용된 타사의 저작권 및 라이센스에 대한 정보를 제공합니다.</block>
   <block id="5e4b821a1a82558dead1ef6961e90666" category="paragraph">이 옵션은 하루 24시간, 주 7일 동안 무료로 사용할 수 있습니다.</block>
   <block id="19111351b69b6b15668130b38b7f6038" category="inline-link">기술 자료</block>
-  <block id="fd6bb4fa1ad0caeedd6782d92cc54ea3" category="list-text"><block ref="fd6bb4fa1ad0caeedd6782d92cc54ea3" category="inline-link-rx"></block></block>
   <block id="14526abd8bda5af347775025cd5342cf" category="inline-link">커뮤니티</block>
   <block id="410fdb9caa9c64da2ff3f88f4836960d" category="list-text"><block ref="410fdb9caa9c64da2ff3f88f4836960d" category="inline-link-rx"></block></block>
   <block id="5b6cf869265c13af8566f192b4ab3d2a" category="list-text">문서화</block>
@@ -169,7 +161,6 @@
   <block id="a30f69ab0ec85d427a3e8835713525bd" category="paragraph">"선택한 서비스에 대해 케이스를 생성할 권한이 없습니다."</block>
   <block id="e01df0b4dfd95eba2c59333419e4fac6" category="list-text">제품 내 채팅을 사용합니다</block>
   <block id="639be990cfca56ab4b63685d8bacd437" category="list-text">에서 비기술 케이스를 제출하십시오<block ref="2298f47e4dad19a3156da7ce6116d9b1" category="inline-link-rx"></block></block>
-  <block id="acb1895ec4c887192c38fae22446be51" category="summary">클라우드 컴퓨팅 지출에 대한 비용 분석을 확인하고 BlueXP(이전의 Cloud Manager)에서 바로 얻을 수 있는 절감 효과를 확인하십시오.</block>
   <block id="02c7be9d19094be861ed6d5c868ab6d9" category="list-text">탐색 메뉴에서 * 확장 &gt; 클라우드 작업 * 을 선택합니다.</block>
   <block id="243263104c829e77835d632f591230d5" category="summary">NetApp 기술 지원 팀과 지원 케이스를 생성하기 전에 NetApp Support 사이트 계정을 BlueXP에 추가한 다음 지원 등록을 해야 합니다.</block>
   <block id="8bf30fadf784022b073adb9233678a71" category="paragraph">NetApp 기술 지원 팀의 지원 케이스를 생성하기 전에 NetApp Support 사이트(NSS) 계정을 BlueXP에 추가한 다음 지원 등록을 해야 합니다.</block>
@@ -208,10 +199,6 @@
   <block id="7729b44167439e24787c999afabf9b49" category="section-title">Cloud Analyzer가 BlueXP에서 작동하는 방식</block>
   <block id="da4f6f67f2d6874fa25ae3476a15be79" category="paragraph">BlueXP와 Cloud Analyzer의 통합은 다음과 같은 이점을 제공합니다.</block>
   <block id="3a8d3e2363f0495ab293d54bebc7e4dd" category="paragraph">BlueXP에서 사용하는 것과 동일한 SSO(Single Sign On) 자격 증명을 사용하여 Spot 서비스에 로그인할 수 있습니다.</block>
-  <block id="fea17a3edb0c3ee07348be9d64fa874a" category="list-text">BlueXP에서 컴퓨팅 페이지를 새로 고치고 이 정보를 사용하여 과거, 현재 및 미래의 클라우드 비용을 파악할 수 있습니다.</block>
-  <block id="77c0115810e9ed3bfd3337acc96198fd" category="summary">BlueXP(이전의 Cloud Manager)의 Compute Service의 새로운 기능에 대해 알아보십시오.</block>
-  <block id="bcb152582247346e2f453fce02c1fc3c" category="inline-link-macro">BlueXP 3.9에 대한 고지 사항</block>
-  <block id="03f975e839e4278228720a5d19656288" category="paragraph"><block ref="03f975e839e4278228720a5d19656288" category="inline-link-macro-rx"></block></block>
   <block id="bd5465eb0e8cf8f303aee7ea9420c8b1" category="sidebar">BlueXP 블로그</block>
   <block id="7a45e6298bb69116e2c6db653fb88884" category="sidebar">모든 BlueXP 설명서</block>
   <block id="8eea62084ca7e541d918e823422bd82e" category="paragraph-title">결과</block>
@@ -275,4 +262,17 @@
   <block id="452cd4df7b0d5eb1156519a2f3b0206b" category="paragraph">이 ID는 이메일에 매핑되는 시스템 생성 ID입니다. NSS 관리 * 페이지의 에서 이메일을 표시할 수 있습니다 <block ref="0d0843f26c0819e5369f690fefbf68b7" category="inline-image-macro-rx" type="image"></block> 메뉴.</block>
   <block id="fd02e84624a2fdfd58787131aa2820b5" category="list-text">로그인 자격 증명 토큰을 새로 고쳐야 하는 경우 에 * 자격 증명 업데이트 * 옵션이 있습니다 <block ref="0d0843f26c0819e5369f690fefbf68b7" category="inline-image-macro-rx" type="image"></block> 메뉴.</block>
   <block id="b14d512a3c64fb5df16f6721b0603c63" category="paragraph">이 옵션을 사용하면 다시 로그인하라는 메시지가 표시됩니다. 이러한 계정의 토큰은 90일 후에 만료됩니다. 이를 알리는 알림이 게시됩니다.</block>
+  <block id="c760999778e3f9fd0e0688bdde1d1291" category="list-text">확장 &gt; 클라우드 작업 * 을 클릭합니다.</block>
+  <block id="c89902de22e38dc537fc0ceae8ac9bf3" category="summary">클라우드 컴퓨팅 지출에 대한 비용 분석을 확인하고 BlueXP에서 바로 얻을 수 있는 비용 절감 효과를 확인하십시오.</block>
+  <block id="b54b9d75f69467d65862b2ee5b79fe70" category="doc">BlueXP 클라우드 운영 설명서</block>
+  <block id="942c9249796cf6b78c981ebf15195809" category="list-text"><block ref="942c9249796cf6b78c981ebf15195809" category="inline-link-rx"></block></block>
+  <block id="42f86b3ffab4eb4b08ad9639ec6d721d" category="summary">BlueXP 클라우드 운영 환경의 새로운 기능에 대해 알아보십시오.</block>
+  <block id="dd335c23d7ed4d65e69465f4891a50cb" category="doc">BlueXP 클라우드 운영에 대해 자세히 알아보십시오</block>
+  <block id="a1ff0729c54ef4b0c64a2dc4f6b6c7f7" category="paragraph">Cloud Analyzer는 클라우드 비용에 대한 가시성과 통찰력을 제공하기 위해 고급 분석을 사용하는 클라우드 인프라 관리 솔루션입니다. 이 도구를 사용하면 이러한 비용을 최적화할 수 있는 위치를 확인할 수 있으며, 몇 번의 클릭만으로 Spot의 지속적인 최적화 제품 포트폴리오를 사용하여 최적화를 구현할 수 있습니다.</block>
+  <block id="06193cf65f29a0243e8f353665b4a2dd" category="list-text">확장 &gt; 클라우드 작업 * 을 클릭하고 AWS 관리 계정을 연결합니다.</block>
+  <block id="dc5847ea8043d8fb75c62a9f7c5b5524" category="list-text">BlueXP에서는 클라우드 운영 페이지가 새로 고쳐지고 정보를 사용하여 과거, 현재 및 향후 클라우드 비용에 대한 통찰력을 얻을 수 있습니다.</block>
+  <block id="c95623cd0395d5a6bb6105b9d32f197b" category="inline-link">BlueXP에 대한 고지 사항</block>
+  <block id="e8a6d0f19a957eac14b9917a6c92899b" category="paragraph"><block ref="e8a6d0f19a957eac14b9917a6c92899b" category="inline-link-rx"></block></block>
+  <block id="47d92e57191853864564085dd2a3b861" category="sidebar">BlueXP 클라우드 운영 설명서</block>
+  <block id="1032c52469c9cc970e54549326a7172d" category="sidebar">BlueXP 클라우드 운영 사용</block>
 </blocks>

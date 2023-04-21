@@ -1,6 +1,6 @@
 ---
 settings:
-  name: Compute
+  name: BlueXP cloud ops
   platform: cloud
   internal:
     pdf_enabled: true
@@ -11,13 +11,13 @@ settings:
   langs: ko-kr,us-en,ja-jp,zh-cn,zh-tw,de-de,es-es,fr-fr
 sidebar:
   entries:
-  - title: 컴퓨팅 문서
+  - title: BlueXP 클라우드 운영 설명서
     url: "/index.html"
   - title: 릴리스 정보
     url: "/whats-new.html"
   - title: 시작하십시오
     entries:
-    - title: 컴퓨팅 서비스에 대해 자세히 알아보십시오
+    - title: BlueXP 클라우드 운영에 대해 자세히 알아보십시오
       url: "/concept-compute.html"
     - title: AWS 계정을 연결합니다
       url: "/task-getting-started-compute.html"
@@ -35,11 +35,11 @@ homepage:
   tiles:
   - title: 시작하십시오
     links:
-    - title: 컴퓨팅 서비스에 대해 자세히 알아보십시오
+    - title: BlueXP 클라우드 운영에 대해 자세히 알아보십시오
       url: concept-compute.html
     - title: AWS 계정을 연결합니다
       url: task-getting-started-compute.html
-  - title: 컴퓨팅 서비스를 사용합니다
+  - title: BlueXP 클라우드 운영 사용
     links:
     - title: 컴퓨팅 비용을 분석합니다
       url: task-analyze-costs.html
