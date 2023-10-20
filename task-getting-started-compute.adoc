@@ -1,10 +1,10 @@
 ---
 sidebar: sidebar 
 permalink: task-getting-started-compute.html 
-keywords: compute, cloud insights, cloud analyzer, connect cloud analyzer, connect management account, connect payer account, aws payer account 
-summary: Spot의 Cloud Analyzer에서 클라우드 컴퓨팅 비용을 심층 분석하기 위해 몇 가지 단계를 완료합니다. 
+keywords: compute, cloud analyzer, connect cloud analyzer, connect management account, connect payer account, aws payer account 
+summary: 클라우드 컴퓨팅 비용을 최적화할 수 있도록 Cloud Analyzer를 AWS 지불자 계정에 연결하십시오. 
 ---
-= Cloud Analyzer을 AWS 계정에 연결합니다
+= AWS 계정을 연결합니다
 :hardbreaks:
 :allow-uri-read: 
 :nofooter: 

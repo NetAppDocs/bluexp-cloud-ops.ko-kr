@@ -2,7 +2,7 @@
 sidebar: sidebar 
 permalink: task-analyze-costs.html 
 keywords: analyze costs, compute costs, projected costs, savings, cloud analyzer 
-summary: 고객을 연결한 후 클라우드 컴퓨팅 비용 분석을 통해 과거, 현재 및 미래의 클라우드 비용을 파악할 수 있습니다. 
+summary: 계정을 연결한 후 BlueXP에서 직접 비용 분석을 확인한 다음, 링크를 클릭하여 Cloud Analyzer의 전체 분석을 확인할 수 있습니다. 
 ---
 = 컴퓨팅 비용을 분석합니다
 :hardbreaks:
@@ -14,11 +14,13 @@ summary: 고객을 연결한 후 클라우드 컴퓨팅 비용 분석을 통해 
 
 
 [role="lead"]
-고객을 연결한 후 클라우드 컴퓨팅 비용 분석을 통해 과거, 현재 및 미래의 클라우드 비용을 파악할 수 있습니다.
+계정을 연결한 후 BlueXP에서 직접 비용 분석을 확인한 다음, 링크를 클릭하여 Cloud Analyzer의 전체 분석을 확인할 수 있습니다.
 
 
 
 == 비용 분석 보기
+
+클라우드 컴퓨팅 비용의 분석을 확인하여 과거, 현재 및 향후 클라우드 비용에 대한 통찰력을 얻을 수 있습니다.
 
 .단계
 . 확장 > 클라우드 작업 * 을 클릭합니다.

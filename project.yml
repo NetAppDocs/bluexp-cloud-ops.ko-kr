@@ -14,7 +14,9 @@ sidebar:
   - title: BlueXP 클라우드 운영 설명서
     url: "/index.html"
   - title: 릴리스 정보
-    url: "/whats-new.html"
+    entries:
+    - title: 새로운 소식
+      url: "/whats-new.html"
   - title: 시작하십시오
     entries:
     - title: BlueXP 클라우드 운영에 대해 자세히 알아보십시오
