@@ -33,26 +33,6 @@ sidebar:
       url: "/task-get-help.html"
   - title: 법적 고지
     url: "/legal-notices.html"
-homepage:
-  tiles:
-  - title: 시작하십시오
-    links:
-    - title: BlueXP 클라우드 운영에 대해 자세히 알아보십시오
-      url: concept-compute.html
-    - title: AWS 계정을 연결합니다
-      url: task-getting-started-compute.html
-  - title: BlueXP 클라우드 운영 사용
-    links:
-    - title: 컴퓨팅 비용을 분석합니다
-      url: task-analyze-costs.html
-  - title: 블로그 커뮤니티
-    links:
-    - title: NetApp 커뮤니티
-      url: https://community.netapp.com/t5/Cloud-Data-Services/ct-p/CDS
-    - title: BlueXP 블로그
-      url: https://cloud.netapp.com/blog
-    - title: 클라우드 웨비나
-      url: https://cloud.netapp.com/events
 product-family:
   name: BlueXP
   repo: bluexp-family

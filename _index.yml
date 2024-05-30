@@ -1,0 +1,25 @@
+---
+indexpage:
+  title: BlueXP 클라우드 운영 설명서
+  summary: 클라우드 컴퓨팅 지출에 대한 비용 분석을 확인하고 BlueXP에서 바로 얻을 수 있는 비용 절감 효과를 확인하십시오.
+  keywords: bluexp-family, bluexp, documentation, cloud
+  lead: 클라우드 컴퓨팅 지출에 대한 비용 분석을 확인하고 BlueXP에서 바로 얻을 수 있는 비용 절감 효과를 확인하십시오.
+  tiles:
+  - title: 시작하십시오
+    links:
+    - title: BlueXP 클라우드 운영에 대해 자세히 알아보십시오
+      url: concept-compute.html
+    - title: AWS 계정을 연결합니다
+      url: task-getting-started-compute.html
+  - title: BlueXP 클라우드 운영 사용
+    links:
+    - title: 컴퓨팅 비용을 분석합니다
+      url: task-analyze-costs.html
+  - title: 블로그 커뮤니티
+    links:
+    - title: NetApp 커뮤니티
+      url: https://community.netapp.com/t5/Cloud-Data-Services/ct-p/CDS
+    - title: BlueXP 블로그
+      url: https://cloud.netapp.com/blog
+    - title: 클라우드 웨비나
+      url: https://cloud.netapp.com/events
