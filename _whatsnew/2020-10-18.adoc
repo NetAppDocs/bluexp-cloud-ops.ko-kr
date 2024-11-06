@@ -1,0 +1,13 @@
+= 컴퓨팅 서비스를 소개합니다
+:allow-uri-read: 
+
+
+
+
+=== 컴퓨팅 서비스를 소개합니다
+
+활용할 수 있습니다 https://spot.io/products/cloud-analyzer/["Spot's Cloud Analyzer를 참조하십시오"^]이제 Cloud Manager를 사용하여 클라우드 컴퓨팅 지출에 대한 상위 수준의 비용 분석을 수행하고 잠재적인 비용 절감을 파악할 수 있습니다. 이 정보는 Cloud Manager의 * Compute * 서비스에서 확인할 수 있습니다.
+
+https://docs.netapp.com/us-en/bluexp-cloud-ops/concept-compute.html["컴퓨팅 서비스에 대해 자세히 알아보십시오"].
+
+image:screenshot_compute_dashboard.gif["Cloud Manager의 비용 분석 페이지를 보여 주는 스크린샷"]
