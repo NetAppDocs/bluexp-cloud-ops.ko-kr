@@ -10,4 +10,4 @@
 
 https://docs.netapp.com/us-en/bluexp-cloud-ops/concept-compute.html["컴퓨팅 서비스에 대해 자세히 알아보십시오"].
 
-image:screenshot_compute_dashboard.gif["Cloud Manager의 비용 분석 페이지를 보여 주는 스크린샷"]
+image:https://raw.githubusercontent.com/NetAppDocs/bluexp-cloud-ops/main/media/screenshot_compute_dashboard.gif["Cloud Manager의 비용 분석 페이지를 보여 주는 스크린샷"]
